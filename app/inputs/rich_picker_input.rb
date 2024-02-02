@@ -84,5 +84,7 @@ private
         end
       end
     end
-
+else
+  class RichPickerInput
+  end
 end
